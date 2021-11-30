@@ -5,7 +5,7 @@ export const Card = props => {
 	return (
 		<div className="card" style={{ width: "18rem" }}>
 			<img
-				src="../img/rigo-baby.jpg"
+				src="https://picsum.photos/seed/picsum/200/300"
 				className="card-img-top"
 				alt="..."
 			/>
